@@ -1,0 +1,5 @@
+{
+    "token": "Njg5NDczNjExNjU1ODA3MDc0.XnerWg.HpaCROiRGE3TUcNW8rJ92Vq21BI",
+    "ownerid": "676247426411266071",
+    "prefix": "!"
+}
